@@ -4,7 +4,7 @@
   "description": "Make dictonary-indexed dirs to support outnumbered file lookup. e.g. file->f-/fi-/file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "fs",
