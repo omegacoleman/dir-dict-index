@@ -10,6 +10,7 @@ ddi
 
 ### usage
 
+```
 --help,-h : print this message
 --version,-v : print the version
 --from,-f [paths] : the entries inside given dirs would be moved into the dictionary
@@ -17,6 +18,7 @@ ddi
 --level,-l [level] : how many levels. A-/AB-/ABC-/abcd.txt is considered 4 levels
 --copy : Copy the files, but not move
 --simulate : print what will be done but do nothing
+```
 
 ### example
 
