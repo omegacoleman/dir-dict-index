@@ -1,0 +1,29 @@
+{
+  "name": "dir-dict-index",
+  "version": "0.1.0",
+  "description": "Make dictonary-indexed dirs to support outnumbered file lookup. e.g. file->f-/fi-/file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "file",
+    "manage",
+    "commandline",
+    "tool"
+  ],
+  "author": "Youcai <1305381973@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^2.0.0",
+    "mkdirp": "^0.5.1"
+  },
+  "bin": {
+    "ddi": "./index.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1",
+    "rimraf": "^2.6.2"
+  }
+}
