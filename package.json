@@ -13,6 +13,7 @@
     "commandline",
     "tool"
   ],
+  "repository": "github:omegacoleman/dir-dict-index",
   "author": "Youcai <1305381973@qq.com>",
   "license": "ISC",
   "dependencies": {
