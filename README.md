@@ -23,16 +23,16 @@ ddi
 Take a look at test/src/, running with -l 2 (default) will result in : 
 
 ```
-  ©¤C-
-    ©¦  c.txt
-    ©¦
-    ©À©¤CA-
-    ©¦      camel.txt
-    ©¦      carnival.txt
-    ©¦      cat.txt
-    ©¦
-    ©¸©¤CR-
-            crush.txt
+ +- C-
+    |  c.txt
+    |
+    |- CA-
+    |      camel.txt
+    |      carnival.txt
+    |      cat.txt
+    |
+    |- CR-
+           crush.txt
 ```
 
 ### todo
